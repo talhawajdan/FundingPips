@@ -38,7 +38,7 @@ function Home() {
       </div>
     );
   }
-  console.log(data["Monthly Time Series"] , "data");
+  
   return (
     <>
       <div className="grid grid-cols-1 mt-3">
